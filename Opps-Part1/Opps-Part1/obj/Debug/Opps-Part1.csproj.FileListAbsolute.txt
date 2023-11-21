@@ -1,0 +1,7 @@
+D:\.net\Day-12\Opps-Part1\Opps-Part1\obj\Debug\Opps-Part1.csproj.AssemblyReference.cache
+D:\.net\Day-12\Opps-Part1\Opps-Part1\obj\Debug\Opps-Part1.csproj.CoreCompileInputs.cache
+D:\.net\Day-12\Opps-Part1\Opps-Part1\bin\Debug\Opps-Part1.exe.config
+D:\.net\Day-12\Opps-Part1\Opps-Part1\bin\Debug\Opps-Part1.exe
+D:\.net\Day-12\Opps-Part1\Opps-Part1\bin\Debug\Opps-Part1.pdb
+D:\.net\Day-12\Opps-Part1\Opps-Part1\obj\Debug\Opps-Part1.exe
+D:\.net\Day-12\Opps-Part1\Opps-Part1\obj\Debug\Opps-Part1.pdb
